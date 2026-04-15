@@ -1,0 +1,12 @@
+.DS_Store
+.pytest_cache/
+.mplconfig/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.streamlit/secrets.toml
+
+# Data / generated outputs that are okay to regenerate locally
+reports/figures/bar.png
+reports/figures/test.png
