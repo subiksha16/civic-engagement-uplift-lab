@@ -1,6 +1,6 @@
 # Civic Engagement Uplift Lab
 
-Civic Engagement Uplift Lab is a resume-ready analytics project that simulates how a data science team could test civic engagement messaging, estimate persuasion lift, and prioritize outreach segments. It mirrors the kind of work campaign analytics teams do in canvassing, turnout, and persuasion: controlled experiments, uplift modeling, segmentation, and decision-focused visualization.
+Civic Engagement Uplift Lab is a analytics project that test civic engagement messaging, estimate persuasion lift, and prioritize outreach segments. It mirrors the kind of work campaign analytics teams do in canvassing, turnout, and persuasion: controlled experiments, uplift modeling, segmentation, and decision-focused visualization.
 
 ## What This Project Does
 
